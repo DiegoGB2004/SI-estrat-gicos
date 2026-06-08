@@ -4,13 +4,13 @@
 Proyecto académico simplificado de BI.
 
 ## Instalación
-pip install -r requirements.txt
+Bash pip install -r requirements.txt
 
 ## Generar datos
-python src/generate_data.py
+Bash python src/generate_data.py
 
 ## Análisis
-python src/kmeans.py
+Bash python src/kmeans.py
 
-## Bash
-streamlit run dashboard/app.py
+## Dashboard
+Bash streamlit run dashboard/app.py
