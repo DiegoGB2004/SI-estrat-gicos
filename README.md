@@ -12,5 +12,5 @@ python src/generate_data.py
 ## Análisis
 python src/kmeans.py
 
-## Dashboard
+## Bash
 streamlit run dashboard/app.py
