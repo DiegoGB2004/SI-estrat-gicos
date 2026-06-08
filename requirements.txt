@@ -1,0 +1,7 @@
+streamlit
+pandas
+faker
+plotly
+scikit-learn
+sqlalchemy
+psycopg2-binary
